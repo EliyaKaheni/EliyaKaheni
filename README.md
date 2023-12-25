@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @EliyaKaheni</h1>
-<h3 align="center">Someone who likes to learn & loves to share :)</h3>
+<h3 align="center"> Always learning :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eliyakaheni&label=Profile%20views&color=0e75b6&style=flat" alt="eliyakaheni" /> </p>
 
