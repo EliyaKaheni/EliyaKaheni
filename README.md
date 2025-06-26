@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/iameliya00" target="blank"><img src="https://img.shields.io/twitter/follow/iameliya00?logo=twitter&style=for-the-badge" alt="iameliya00" /></a> </p>
 
-- 🔭 I’m currently working on **a Climate Project**
+- 🔭 I’m currently learning **Machine LEarning** specifically **NLP**
 
 - 💬 My Telegram id : **@eliyahastam**
 
 - 📚 I’m studying **ComputerSciencs in IUST**
-
-- 🌱 I’m currently learning **Machine-Learning**
 
 - 📫 My E-mail address : **eliya.kaheni@gmail.com**
 
